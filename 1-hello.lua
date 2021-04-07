@@ -17,3 +17,5 @@ for i=1, 10 do
   print(i)
 end
 
+local date=os.date("%Y-%m-%d %H:%M:%S")
+print(date)
